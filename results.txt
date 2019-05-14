@@ -1,0 +1,343 @@
+------------------------ Summary of Results ------------------------------
+Q1)
+
+M=5 ,S=100 ,Y=10
+
+************************ REPORT *************************
+Total Yodels: 45361
+Total Perfect Yodels: 22111
+Total Time Units Silent: 620127
+Total Time Units Melodious: 311057
+Total Time Units Screechy: 68839.6
+Percentage Perfect Yodels: 48.74%
+Percentage Silent: 62.01%
+Percentage Melodious: 31.11%
+Percentage Sceechy: 6.88%
+*********************************************************
+
+---------------------------------------------------------------------------
+Q2)
+
+For the simulation to determine the optimal Bozon colony size there is a
+graph in "Results Graph.pdf" representing a graphical representation of the 
+trends.
+
+Based On the tests I ran, the data shows that a colony size of 10 results 
+in the maximum melodious time given a sleep mean of 100.0 and a yodel mean
+of 10.0 time units. The maximum percentage achieved is 38.61%.
+
+---------------------------------------------------------------------------
+Q3)
+
+For this simulation using values {2^x| 0 <= x <= 7} please see the graph in
+"Results Graphs.pdf". The highest melodious value of 36.57% was achieved when
+the colony size was 16.
+
+---------------------------------------------------------------------------
+
+
+RAW DATA
+
+
+
+---------------------------------------------------------------------------
+Question 2 raw data
+
+Please enter M, S, and Y (<M S Y>): 1 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 8996
+Total Perfect Yodels: 8996
+Total Time Units Silent: 910373
+Total Time Units Melodious: 89774.6
+Total Time Units Screechy: 0
+Percentage Perfect Yodels: 100.00%
+Percentage Silent: 91.04%
+Percentage Melodious: 8.98%
+Percentage Sceechy: 0.00%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 2 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 18237
+Total Perfect Yodels: 14993
+Total Time Units Silent: 825472
+Total Time Units Melodious: 166228
+Total Time Units Screechy: 8304.57
+Percentage Perfect Yodels: 82.21%
+Percentage Silent: 82.55%
+Percentage Melodious: 16.62%
+Percentage Sceechy: 0.83%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 3 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 27131
+Total Perfect Yodels: 18567
+Total Time Units Silent: 754561
+Total Time Units Melodious: 222466
+Total Time Units Screechy: 22974.6
+Percentage Perfect Yodels: 68.43%
+Percentage Silent: 75.46%
+Percentage Melodious: 22.25%
+Percentage Sceechy: 2.30%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 4 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 36445
+Total Perfect Yodels: 20815
+Total Time Units Silent: 680488
+Total Time Units Melodious: 275108
+Total Time Units Screechy: 44426.4
+Percentage Perfect Yodels: 57.11%
+Percentage Silent: 68.05%
+Percentage Melodious: 27.51%
+Percentage Sceechy: 4.44%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 5 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 45361
+Total Perfect Yodels: 22111
+Total Time Units Silent: 620127
+Total Time Units Melodious: 311057
+Total Time Units Screechy: 68839.6
+Percentage Perfect Yodels: 48.74%
+Percentage Silent: 62.01%
+Percentage Melodious: 31.11%
+Percentage Sceechy: 6.88%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 6 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 54140
+Total Perfect Yodels: 22665
+Total Time Units Silent: 569304
+Total Time Units Melodious: 335120
+Total Time Units Screechy: 95595.7
+Percentage Perfect Yodels: 41.86%
+Percentage Silent: 56.93%
+Percentage Melodious: 33.51%
+Percentage Sceechy: 9.56%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 7 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 63607
+Total Perfect Yodels: 22434
+Total Time Units Silent: 512141
+Total Time Units Melodious: 360066
+Total Time Units Screechy: 127799
+Percentage Perfect Yodels: 35.27%
+Percentage Silent: 51.21%
+Percentage Melodious: 36.01%
+Percentage Sceechy: 12.78%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 8 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 72548
+Total Perfect Yodels: 22071
+Total Time Units Silent: 466516
+Total Time Units Melodious: 373577
+Total Time Units Screechy: 159910
+Percentage Perfect Yodels: 30.42%
+Percentage Silent: 46.65%
+Percentage Melodious: 37.36%
+Percentage Sceechy: 15.99%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 9 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 81491
+Total Perfect Yodels: 21246
+Total Time Units Silent: 424941
+Total Time Units Melodious: 380974
+Total Time Units Screechy: 194091
+Percentage Perfect Yodels: 26.07%
+Percentage Silent: 42.49%
+Percentage Melodious: 38.10%
+Percentage Sceechy: 19.41%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 10 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 90231
+Total Perfect Yodels: 20275
+Total Time Units Silent: 388264
+Total Time Units Melodious: 386147
+Total Time Units Screechy: 225590
+Percentage Perfect Yodels: 22.47%
+Percentage Silent: 38.83%
+Percentage Melodious: 38.61%
+Percentage Sceechy: 22.56%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 11 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 99600
+Total Perfect Yodels: 19437
+Total Time Units Silent: 352232
+Total Time Units Melodious: 383759
+Total Time Units Screechy: 264010
+Percentage Perfect Yodels: 19.52%
+Percentage Silent: 35.22%
+Percentage Melodious: 38.38%
+Percentage Sceechy: 26.40%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 12 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 108597
+Total Perfect Yodels: 18081
+Total Time Units Silent: 321065
+Total Time Units Melodious: 380134
+Total Time Units Screechy: 298804
+Percentage Perfect Yodels: 16.65%
+Percentage Silent: 32.11%
+Percentage Melodious: 38.01%
+Percentage Sceechy: 29.88%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 13 100 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 117477
+Total Perfect Yodels: 17188
+Total Time Units Silent: 291946
+Total Time Units Melodious: 376411
+Total Time Units Screechy: 331645
+Percentage Perfect Yodels: 14.63%
+Percentage Silent: 29.19%
+Percentage Melodious: 37.64%
+Percentage Sceechy: 33.16%
+*********************************************************
+
+---------------------------------------------------------------------------------------------------------
+Question 3 raw data
+
+Please enter M, S, and Y (<M S Y>): 1 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 4683
+Total Perfect Yodels: 4683
+Total Time Units Silent: 953915
+Total Time Units Melodious: 46606.3
+Total Time Units Screechy: 0
+Percentage Perfect Yodels: 100.00%
+Percentage Silent: 95.39%
+Percentage Melodious: 4.66%
+Percentage Sceechy: 0.00%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 2 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 9475
+Total Perfect Yodels: 8642
+Total Time Units Silent: 906395
+Total Time Units Melodious: 91593.4
+Total Time Units Screechy: 2012.3
+Percentage Perfect Yodels: 91.21%
+Percentage Silent: 90.64%
+Percentage Melodious: 9.16%
+Percentage Sceechy: 0.20%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 4 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 19218
+Total Perfect Yodels: 14425
+Total Time Units Silent: 819827
+Total Time Units Melodious: 166890
+Total Time Units Screechy: 13285
+Percentage Perfect Yodels: 75.06%
+Percentage Silent: 81.98%
+Percentage Melodious: 16.69%
+Percentage Sceechy: 1.33%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 8 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 38085
+Total Perfect Yodels: 19892
+Total Time Units Silent: 676045
+Total Time Units Melodious: 271446
+Total Time Units Screechy: 52524.7
+Percentage Perfect Yodels: 52.23%
+Percentage Silent: 67.60%
+Percentage Melodious: 27.14%
+Percentage Sceechy: 5.25%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 16 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 76265
+Total Perfect Yodels: 20565
+Total Time Units Silent: 456326
+Total Time Units Melodious: 365743
+Total Time Units Screechy: 177936
+Percentage Perfect Yodels: 26.97%
+Percentage Silent: 45.63%
+Percentage Melodious: 36.57%
+Percentage Sceechy: 17.79%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 32 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 151539
+Total Perfect Yodels: 13356
+Total Time Units Silent: 212677
+Total Time Units Melodious: 334083
+Total Time Units Screechy: 453243
+Percentage Perfect Yodels: 8.81%
+Percentage Silent: 21.27%
+Percentage Melodious: 33.41%
+Percentage Sceechy: 45.32%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 64 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 305400
+Total Perfect Yodels: 3403
+Total Time Units Silent: 43433.3
+Total Time Units Melodious: 139107
+Total Time Units Screechy: 817460
+Percentage Perfect Yodels: 1.11%
+Percentage Silent: 4.34%
+Percentage Melodious: 13.91%
+Percentage Sceechy: 81.75%
+*********************************************************
+
+Please enter M, S, and Y (<M S Y>): 128 200 10
+simulator set up. Now running
+************************ REPORT *************************
+Total Yodels: 610085
+Total Perfect Yodels: 133
+Total Time Units Silent: 1797.84
+Total Time Units Melodious: 12029.5
+Total Time Units Screechy: 986173
+Percentage Perfect Yodels: 0.02%
+Percentage Silent: 0.18%
+Percentage Melodious: 1.20%
+Percentage Sceechy: 98.62%
+*********************************************************
+
+---------------------------------------------------------------------------------------------------------
