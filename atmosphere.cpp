@@ -23,7 +23,7 @@ atmosphere::atmosphere() : status(0),
 						   ttlTimeSilent(0.0f),
 						   ttlTimeMelodious(0.0f),
 						   ttlTimeScreech(0.0f) {
-
+ 
 }
 
 
